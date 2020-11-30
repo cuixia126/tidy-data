@@ -3,7 +3,7 @@
 1. Keep run_analysis.R file in the same directory as the dataset folder
 2. Ensure the dataset folder is named *UCI HAR Dataset*
 3. Run the file
-4. A new text file named **out** will be created in the directory with the summary dataset
+4. A new text file named **out.txt** will be created in the directory with the summary dataset
 
 <h1>Working</h1>
 
