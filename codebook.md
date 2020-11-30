@@ -56,7 +56,7 @@ The above defines the original dataset.
 This dataset has been modified to include only the mean() and std() for each feature.
 The subject and activity(y) datasets have also been merged to this dataset.
 New dataset:
-
+<pre>
 Feature                             Type            Value_Range
 
 subject                    			integer			A number for each subject
@@ -127,3 +127,4 @@ fBodyBodyGyroMag-mean()    			numeric			-1 to 1
 fBodyBodyGyroMag-std()     			numeric			-1 to 1                                                                 
 fBodyBodyGyroJerkMag-mean()			numeric			-1 to 1                                                                 
 fBodyBodyGyroJerkMag-std() 			numeric			-1 to 1                                                                 
+</pre>
