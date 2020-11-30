@@ -57,7 +57,7 @@ This dataset has been modified to include only the mean() and std() for each fea
 The subject and activity(y) datasets have also been merged to this dataset.
 New dataset:
 <pre>
-Feature                             Type            Value_Range
+Feature                         Type        Value_Range
 
 subject                    			integer			A number for each subject
 activity                   			factor 			WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
