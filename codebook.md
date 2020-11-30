@@ -56,9 +56,8 @@ The above defines the original dataset.
 This dataset has been modified to include only the mean() and std() for each feature.
 The subject and activity(y) datasets have also been merged to this dataset.
 New dataset:
-<pre>
 Feature                         Type        Value_Range
-
+<pre>
 subject                    			integer			A number for each subject
 activity                   			factor 			WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 tBodyAcc-mean()-X          			numeric			-1 to 1                                                                 
